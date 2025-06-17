@@ -32,3 +32,4 @@ This is a simple desktop application built with Python and Tkinter that encourag
 ## License
 
 This project is for educational purposes and personal productivity.
+
